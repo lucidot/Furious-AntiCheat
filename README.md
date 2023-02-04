@@ -1,6 +1,8 @@
 # Furious-AntiCheat
 
 
+FOR SUPPORT PLEASE CONTACT ME ON DISCORD ANYTIME @lucid#0253
+
 hi i am lucid the creator of furious anticheat i am here releasing this open source for people / creators to use or even edit to there own branding/likeing of an anticheat
 
 
